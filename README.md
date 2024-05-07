@@ -8,4 +8,4 @@
     - Rotors:
         - https://github.com/ethz-asl/rotors_simulator
 
-- gazebo、urdf文件类较多参考reed_simulator
+- gazebo、urdf、stl文件类照搬reed_simulator

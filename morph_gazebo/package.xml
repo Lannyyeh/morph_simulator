@@ -1,0 +1,22 @@
+<package format="2">
+  <name>morph_gazebo</name>
+  <version>2.2.3</version>
+  <description>The morph_gazebo package</description>
+
+  <maintainer email="liaoluweillw@163.com">Fadri Furrer</maintainer>
+
+  <author>Reed Liao</author>
+  <license>ASL 2.0</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>gazebo_msgs</depend>
+  <depend>gazebo_plugins</depend>
+  <depend>geometry_msgs</depend>
+  <depend>joy</depend>
+  <depend>mav_msgs</depend>
+  <depend>roscpp</depend>
+  <depend>sensor_msgs</depend>
+  <depend>xacro</depend>
+
+</package>

@@ -1,0 +1,14 @@
+# position_gain: {x: 2, y: 2, z: 2}
+# velocity_gain: {x: 2.5, y: 2.5, z: 2.7}
+# attitude_gain: {x: 0.5, y: 0.5, z: 0.035}
+# angular_rate_gain: {x: 0.22, y: 0.22, z: 0.01}
+
+# gain parameters
+lambda_1: {x: 1.0, y: 1.0, z: 2.0}
+lambda_2: {x: 2.0, y: 2.0, z: 1.0}
+Kp_1: {x: 0.5, y: 0.5, z: 2.0}
+Kp_2: {x: 0.01, y: 0.01, z: 0.02}
+Kphi_1: {x: 0.07, y: 0.07, z: 0.01}
+Kphi_2: {x: 0.001, y: 0.001, z: 0.01}
+sigma_1: {val: 0.04}
+sigma_2: {val: 0.01}
